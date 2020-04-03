@@ -1,4 +1,4 @@
-#Table formatting using markdown
+# Table formatting using markdown
 
 | Column 1                  | Column 2                  |
 | ------------------------- | ------------------------- |
