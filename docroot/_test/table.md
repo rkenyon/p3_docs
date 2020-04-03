@@ -1,6 +1,6 @@
 #Table formatting using markdown
 
-| Column 1    | Column 2    |
-| ----------- | ----------- |
-| [Link 1](./link1_file.md) | Row 1 Col 2 |
-| Row 2 Col 1 | Row 2 Col 2 |
+| Column 1                  | Column 2                  |
+| ------------------------- | ------------------------- |
+| [Link 1](./link1_file.md) | [Link 2](./link2_file.md) |
+| [Link 3](./link3_file.md) | [Link 4](./link4_file.md) |
