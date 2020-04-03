@@ -7,13 +7,15 @@
 | [Link 3](./link3_file.md) | [Link 4](./link4_file.md) |
 
 
+[1]: ./link1_file.md
+
+
 ## Reference links table 1
 
 | Column 1    | Column 2    |
 | ----------- | ----------- |
 | [Link 1][1] | [Link 2][2] |
 
-[1]: ./link1_file.md
 [2]: ./link2_file.md
 
 Some random text inbetween
